@@ -1,0 +1,28 @@
+{
+  "name": "pokemon-list-example-jokaml",
+  "version": "1.0.0",
+  "description": "In this exercise, you have to implement a website that uses a RESTful Web API in the background. You have to create the website from scratch without any initial templates to build on. Feel free to use prior homeworks or samples from the course material as a starting point.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htl-perg-2018-19-4ahif/pokemon-list-example-jokaml.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htl-perg-2018-19-4ahif/pokemon-list-example-jokaml/issues"
+  },
+  "homepage": "https://github.com/htl-perg-2018-19-4ahif/pokemon-list-example-jokaml#readme",
+  "dependencies": {
+    "@types/jquery": "^3.3.25",
+    "@types/typescript": "^2.0.0",
+    "jquery": "^3.3.1",
+    "tsc": "^1.20150623.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  }
+}
